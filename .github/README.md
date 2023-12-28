@@ -1,24 +1,24 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 DanManage 」──
 </h2>
 
 <p align="center">
-  <img src="https://github.com/AnonymousX1025/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://github.com/Wildan2023/DanManage/blob/master/FallenRobot/resources/fglitch.gif">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [DanManage](https://t.me/dansupport)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/AnonymousX1025/FallenRobot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AnonymousX1025/FallenRobot/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousX1025/FallenRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Wildan2023/DanManage/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Wildan2023/DanManage/network/members"> <img src="https://img.shields.io/github/forks/Wildan2023/DanManage?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Wildan2023/DanManage/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousX1025/FallenRobot"> <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/Wildan2023/DanManage"> <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/AnonymousX1025/FallenRobot/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
@@ -99,10 +99,10 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/AnonymousX1025/FallenRobot) </b>
+- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Wildan2023)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Wildan2023/DanManage) </b>
 - <b>[ᴩᴀᴜʟ ʟᴀʀsᴇɴ](https://github.com/PaulSonOfLars)  ➻  [ᴛɢ ʙᴏᴛ](https://github.com/PaulSonOfLars/tgbot) </b>
 - <b>[ʜᴀᴍᴋᴇʀ ᴄᴀᴛ](https://github.com/TheHamkerCat)  ➻  [ᴡɪʟʟɪᴀᴍ ʙᴜᴛᴄʜᴇʀ](https://github.com/TheHamkerCat/WilliamButcherBot) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousX1025/FallenRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Wildan2023/DanManage/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ DanManage ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
